@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+echo "this is from windows git";
